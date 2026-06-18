@@ -24,7 +24,7 @@ console.log(undefinedVariable);
 // Null
 let nullValue = null;
 
-// Symbol
+// Symbol 
 let mySymbol = Symbol("mySymbol");
 
 // BigInt
