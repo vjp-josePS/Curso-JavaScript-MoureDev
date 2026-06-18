@@ -25,4 +25,5 @@ console.log(helloWord3);
 // Esto no se puede hacer con const, ya que es una constante y no se puede reasignar un nuevo valor
 
 // helloWord3 = "Hola de nuevo, JavaScript 3!";
+
 // console.log(helloWord3);
